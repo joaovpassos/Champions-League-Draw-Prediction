@@ -41,5 +41,12 @@ Here are the matches after the official draw:
   <p>
   <p align="center">
   Chelsea x Atletico Madrid
-  <p>
-  
+  </p>
+  <br></br>
+  <p align="center">
+    You can make your prediction with whatever teams you want. 
+    To do it, just change the teams name, group and origin country <a href="https://github.com/joaovpassos/Champions-League-Draw-Prediction/blob/main/champions_simulation.py" target="_blank">HERE</a>. 
+  </p>
+  <p align="center">
+  Also, you can set the number of prediction to make by changing the variable value in line sixteen.
+  </p>
