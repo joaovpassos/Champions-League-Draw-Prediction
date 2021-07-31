@@ -2,15 +2,15 @@
 <img src="https://github.com/joaovpassos/Champions-League-Draw-Prediction/blob/main/champions_league_logo.png" width="15%"></img>
 </p>
   
-### This is a code that simulate the chances of each match of the teams in round of sixteen.
+### This code was made to simulate the chances of each match in round of sixteen of the UEFA Champions League 2020-21.
 
-##### Here is the prediction for the <b>Champions League 2020-21</b> draw:
+You can see the predictions of the matches below
 
 ![Tabela Champions League](https://github.com/joaovpassos/Champions-League-Draw-Prediction/blob/main/Champions%20League%20simulation.png)
   
-It was made with 10.000.000 simulation to increase the accuracy of the prediction.
+This code was made with <b>10.000.000</b> simulations. I picked a very high number to increase the chances to get the results right. 
 
-Here are the matches after the official draw:
+You can see the official drawn matches below and compare with the probabilities of each match that was previous calculated. 
 <p align="center">  
 
 | First Place | Vs. | Second Place |
@@ -26,9 +26,11 @@ Here are the matches after the official draw:
   
 </p>
   
-You can make your prediction with whatever teams you want. 
-To do it, just change the teams name, group and origin country <a href="https://github.com/joaovpassos/Champions-League-Draw-Prediction/blob/main/champions_simulation.py" target="_blank">HERE</a>. 
+<br></br>
+This is an example of how programming can help teams to have a better preparation and be able to study the teams that have more chances to face in the next stage of the tournment.
+
+You can make your prediction with whatever teams you want. To make it, you just have to change the teams name, group and origin country <a href="https://github.com/joaovpassos/Champions-League-Draw-Prediction/blob/main/champions_simulation.py" target="_blank">HERE</a>. 
   
-Also, you can set the number of prediction to make by changing the variable value in line sixteen.
+Also, you can set the number of prediction to make by changing the variable ```value``` in line sixteen.
 
 
