@@ -11,7 +11,8 @@ You can see the predictions of the matches below
 This code was made with <b>10.000.000</b> simulations. I picked a very high number to increase the chances to get the results right. 
 
 You can see the official drawn matches below and compare with the probabilities of each match that was previous calculated. 
-<p align="center">  
+
+<div align="center">  
 
 | First Place | Vs. | Second Place |
 | :-: | :-: | :-: |
@@ -24,7 +25,7 @@ You can see the official drawn matches below and compare with the probabilities 
 | Juventus |vs.| Porto |
 | Chelsea |vs.| Atletico Madrid |
   
-</p>
+</div>
   
 <br></br>
 This is an example of how programming can help teams to have a better preparation and be able to study the teams that have more chances to face in the next stage of the tournment.
